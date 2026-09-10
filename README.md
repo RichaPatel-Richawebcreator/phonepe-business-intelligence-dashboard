@@ -67,7 +67,7 @@ The objective of this analysis is to understand digital payment behavior and ide
 
 # 📈 Dashboard Preview
 
-
+![PhonePe Power BI Dashboard](finalView.png)
 
 ---
 
